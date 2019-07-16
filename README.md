@@ -6,5 +6,5 @@
   * [Challenge](https://www.hackerrank.com/challenges/minimum-swaps-2/problem)
   * [Solution](https://github.com/onurburak9/hackerrank/tree/master/Minimum%20Swaps%202)
 * ### Array Manipulation
-  * [Challenge](https://www.hackerrank.com/challenges/array-manipulation/problem)
+  * [Challenge](https://www.hackerrank.com/challenges/crush/problem)
   * [Solution](https://github.com/onurburak9/hackerrank/tree/master/Array%20Manipulation)
