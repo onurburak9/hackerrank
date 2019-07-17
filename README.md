@@ -10,4 +10,4 @@
   * [Solution](https://github.com/onurburak9/hackerrank/tree/master/Array%20Manipulation)
 * ### Hash Table: Ransom Note
   * [Challenge](https://www.hackerrank.com/challenges/ctci-ransom-note/problem)
-  * [Solution](https://github.com/onurburak9/hackerrank/tree/master/Array%20Manipulation)
+  * [Solution](https://github.com/onurburak9/hackerrank/tree/master/Hash%20Table:%20Ransom%20Note)
